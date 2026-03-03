@@ -827,7 +827,7 @@ Its purpose is the opposite: to make AI-assisted writing **more transparent, mor
 ```
 MIT License
 
-Copyright (c) 2024 GuardGen Contributors
+Copyright (c) 2026 GuardGen Contributors
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -854,5 +854,6 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
 ```
 
 ---
+
 
 *GuardGen — Because every claim deserves a source.*
